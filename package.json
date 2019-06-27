@@ -1,7 +1,6 @@
 {
   "name": "node-apprtc",
   "version": "0.1.0",
-  "start":"node index.js",
   "description": "Nodejs based AppRTC server",
   "main": "index.js",
   "scripts": {
