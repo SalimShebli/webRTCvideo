@@ -13,7 +13,7 @@
   "author": "Fitra Aditya",
   "license": "MIT",
   "engines": {
-    "node": "4.7.0"
+    "node": "4.2.0"
   },
   "dependencies": {
     "handlebars": "^4.0.5",
