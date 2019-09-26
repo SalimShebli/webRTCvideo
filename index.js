@@ -6,7 +6,7 @@ var app = {};
 app.config = Config;
 
 var server = new Hapi.Server();
-
+//sdasfdsa
 server.connection({ routes: { cors: true }, port: app.config.server.port });
 
 server.register(require('inert'));
